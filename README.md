@@ -12,11 +12,11 @@ Si tienen alguna pregunta, no duden en contactarme al correo [jaleonhardt@uc.cl]
 
 | Fecha | Instancia | Tema | Plataforma | Link |
 |:------|:----------|:-----|:-----------|:-----|
-| 25/08 | Laboratorio 1 | Introducción a los Sistemas de Información Geográfica | YouTube | - |
-| 01/09 | Laboratorio 2 | Análisis y Manipulación de Datos Geoespaciales con GeoPandas | YouTube | - |
-| 08/09 | Laboratorio 3 | Cálculo de Accesibilidades Gravitacionales | YouTube | - |
-| 22/09 | Laboratorio 4 | Estimación de Modelos Bid y Choice de Localización | YouTube | - |
-| 29/09 | Laboratorio 5 | Simulación de Escenarios Futuros | YouTube | - |
+| 25/08 | Laboratorio 1 | Introducción a los Sistemas de Información Geográfica | YouTube | https://youtu.be/ukO95-0JFlQ |
+| 01/09 | Laboratorio 2 | Análisis y Manipulación de Datos Geoespaciales con GeoPandas | YouTube | — |
+| 08/09 | Laboratorio 3 | Cálculo de Accesibilidades Gravitacionales | YouTube | — |
+| 22/09 | Laboratorio 4 | Estimación de Modelos Bid y Choice de Localización | YouTube | — |
+| 29/09 | Laboratorio 5 | Simulación de Escenarios Futuros | YouTube | — |
 | 05/10, 07/10 y 09/10 | Presentaciones de Avance | Hasta Estimación de Modelos | Presencial | — |
 | 23/11, 25/11 y 27/11 | Presentaciones Finales | Hasta Simulación de Escenarios | Presencial | — |
 | 11/12 | Sesión de Póster | Póster Autocontenido | Presencial | — |
