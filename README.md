@@ -17,7 +17,7 @@ Si tienen alguna pregunta, no duden en contactarme al correo [jaleonhardt@uc.cl]
 | 08/09 | Laboratorio 3 | Cálculo de Accesibilidades Gravitacionales | YouTube | https://youtu.be/jonWefH4NOU |
 | 22/09 | Laboratorio 4 | Estimación de Modelos Bid y Choice de Localización | YouTube | https://youtu.be/rGdgR-1kRxs |
 | 25/09 | Ayudantía | Laboratorios 1, 2, 3 y 4 | Presencial | — |
-| 29/09 | Laboratorio 5 | Simulación de Escenarios Futuros | YouTube | — |
+| 29/09 | Laboratorio 5 | Simulación de Escenarios Futuros | YouTube | https://youtu.be/SEqoTLfy8zU |
 | 05/10, 07/10 y 09/10 | Presentaciones de Avance | Hasta Estimación de Modelos | Presencial | — |
 | 23/11, 25/11 y 27/11 | Presentaciones Finales | Hasta Simulación de Escenarios | Presencial | — |
 | 11/12 | Sesión de Póster | Póster Autocontenido | Presencial | — |
